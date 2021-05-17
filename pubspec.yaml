@@ -1,8 +1,8 @@
 name: settpay_ui
-description: A new Flutter package project.
+description: Common UI widgets / snippets for SettPay
 version: 0.0.1
-author:
-homepage:
+author: Muhammad-Jibril B.A. <jbashir52@gmail.com>
+homepage: https://setheum.xyz/
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
