@@ -23,7 +23,7 @@ class AddressIcon extends StatelessWidget {
         height: size ?? 40,
         child: svg == null
             ? Image.asset(
-                'packages/settpay_ui/assets/images/polkadot_avatar.png',
+                'packages/settpay_ui/assets/polkadot_avatar.png',
                 bundle: rootBundle,
               )
             : SvgPicture.string(svg),
