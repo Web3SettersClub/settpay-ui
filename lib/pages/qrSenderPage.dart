@@ -89,7 +89,7 @@ class _QrSenderPageState extends State<QrSenderPage> {
                             padding: EdgeInsets.all(16),
                             child: RoundedButton(
                               icon: SvgPicture.asset(
-                                'packages/settpay_ui/assets/images/scan.svg',
+                                'packages/settpay_ui/assets/scan.svg',
                                 width: 28,
                                 color: Theme.of(context).cardColor,
                               ),

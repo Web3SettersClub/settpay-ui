@@ -100,7 +100,7 @@ class _TxConfirmPageState extends State<TxConfirmPage> {
         content: ListTile(
           leading: Container(
             width: 24,
-            child: Image.asset('packages/settpay_ui/assets/images/success.png'),
+            child: Image.asset('packages/settpay_ui/assets/success.png'),
           ),
           title: Text(
             I18n.of(context).getDic(i18n_full_dic_ui, 'common')['success'],
