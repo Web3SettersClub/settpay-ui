@@ -79,7 +79,7 @@ class TxDetail extends StatelessWidget {
                         child: Padding(
                           padding: EdgeInsets.only(left: 8),
                           child: Image.asset(
-                            'packages/settpay_ui/assets/images/copy.png',
+                            'packages/settpay_ui/assets/copy.png',
                             width: 16,
                           ),
                         ),
@@ -185,7 +185,7 @@ class TxDetailItem extends StatelessWidget {
                   child: Padding(
                     padding: EdgeInsets.only(left: 8),
                     child: Image.asset(
-                      'packages/settpay_ui/assets/images/copy.png',
+                      'packages/settpay_ui/assets/copy.png',
                       width: 16,
                     ),
                   ),

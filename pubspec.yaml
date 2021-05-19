@@ -46,13 +46,13 @@ flutter:
   #   - images/a_dot_ham.jpeg
   #
   assets:
-   - assets/images/polkadot_avatar.png
-   - assets/images/success.png
-   - assets/images/error.png
-   - assets/images/copy.png
-   - assets/images/scan.svg
-   - assets/images/app.png
-   - assets/images/receive_line.png
+   - assets/polkadot_avatar.png
+   - assets/success.png
+   - assets/error.png
+   - assets/copy.png
+   - assets/scan.svg
+   - assets/app.png
+   - assets/receive_line.png
   #
   # For details regarding assets in packages, see
   # https://flutter.dev/assets-and-images/#from-packages

@@ -73,8 +73,8 @@ class AccountQrCodePage extends StatelessWidget {
                     child: QrImage(
                       data: codeAddress,
                       size: qrWidth + 24,
-                      embeddedImage: AssetImage(
-                          'packages/settpay_ui/assets/images/app.png'),
+                      embeddedImage:
+                          AssetImage('packages/settpay_ui/assets/app.png'),
                       embeddedImageStyle:
                           QrEmbeddedImageStyle(size: Size(40, 40)),
                     ),
